@@ -84,11 +84,7 @@ def main():
 
             # see if user has any recent ladder maps
             map_list: List[str] = [
-                "AbyssalReefAIE",
-                "AutomationAIE",
-                "EphemeronAIE",
-                "InterloperAIE",
-                "ThunderbirdAIE",
+                "PersephoneAIE",
             ]
 
         random_race = random.choice([Race.Zerg, Race.Terran, Race.Protoss])
